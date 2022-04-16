@@ -1,0 +1,3 @@
+DBType: "mysql"
+DBAddr: "root:golang666@tcp(127.0.0.1:3306)/students" # 连接mysql的密码
+ServerAddr: "127.0.0.1:12345"
